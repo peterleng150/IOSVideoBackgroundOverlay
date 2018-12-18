@@ -2,7 +2,7 @@
   <img src="https://github.com/peterleng150/IOSVideoBackgroundOverlay/raw/master/Assets/Spotify.gif" width="369" title="Screenshot">
 </p>
 
-SwiftVideoBackground is an easy to use Swift framework that provides the ability to play a video on any UIView. This provides a beautiful UI for login screens, or splash pages, as implemented by Spotify and many others.
+IOSVideoBackground is an easy to use Swift framework that provides the ability to play a video on any UIView. This provides a beautiful UI for login screens, or splash pages, as implemented by Spotify and many others.
 
 ## Features
 
@@ -14,7 +14,6 @@ SwiftVideoBackground is an easy to use Swift framework that provides the ability
 - [x] Loop videos *(optional)*
 - [x] Mute sound *(optional)*
 - [x] Darken videos so overlying UI stands out more *(optional)*
-- [x] [Documentation](https://wilsonding.com/SwiftVideoBackground/)
 
 ## Contents
 
@@ -56,9 +55,7 @@ pod 'SwiftVideoBackground', '0.06'
 
 #### Carthage
 You can use [Carthage](https://github.com/Carthage/Carthage) to install `SwiftVideoBackground` by adding it to your `Cartfile`:
-```
-github "dingwilson/SwiftVideoBackground"
-```
+
 
 #### Manually
 
@@ -67,11 +64,6 @@ To use this library in your project manually you may:
 1. for Projects, just drag VideoBackground.swift to the project tree
 2. for Workspaces, include the whole SwiftVideoBackground.xcodeproj
 
-## Migration Guide
-
-#### Version 3.0.0
-- Passing in an array of videos support removed. You should merge videos in advance instead. Here is [a walk through on concatenating media files with FFmpeg](https://wilsonding.com/2018/03/02/concatenate-multimedia-files-with-ffmpeg/).
-- `alpha` renamed to `darkness`
 
 #### Version 2.0.0
 See the quick [migration guide](migration-2.0.0.md).
@@ -155,7 +147,7 @@ In order to play local videos, you must add them to your project:
 4. Select `Copy Bundle Resources`
 5. Click `+` to add a video
 
-![add video to project](https://github.com/dingwilson/SwiftVideoBackground/raw/master/Assets/add-video-to-project.png "add video to project")
+![add video to project](https://github.com/peterleng150/IOSVideoBackgroundOverlay/raw/master/Assets/add-video-to-project.png "add video to project")
 
 ## Issues
 
