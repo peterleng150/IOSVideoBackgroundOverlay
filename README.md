@@ -157,7 +157,7 @@ There is a bug in Apple's [AudioToolbox](https://developer.apple.com/documentati
 
 ## License
 
-`SwiftVideoBackground` is released under an [MIT License][mitLink]. See [LICENSE](LICENSE) for details.
+`IOSVideoBackgroundOverlay` is released under an [MIT License][mitLink]. See [LICENSE](LICENSE) for details.
 
 ## Authors
 
