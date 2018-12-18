@@ -1,18 +1,5 @@
 <p align="center">
-  <img src="https://github.com/dingwilson/SwiftVideoBackground/raw/master/Assets/banner.png" width="780" title="SwiftVideoBackground">
-</p>
-
-[![Build Status](https://travis-ci.org/dingwilson/SwiftVideoBackground.svg?branch=master)](https://travis-ci.org/dingwilson/SwiftVideoBackground)
-[![codecov](https://codecov.io/gh/dingwilson/SwiftVideoBackground/branch/master/graph/badge.svg)](https://codecov.io/gh/dingwilson/SwiftVideoBackground)
-[![doccov](https://wilsonding.com/SwiftVideoBackground/badge.svg)](https://wilsonding.com/SwiftVideoBackground)
-![Platform](https://img.shields.io/badge/platforms-iOS-333333.svg)
-[![Swift](https://img.shields.io/badge/Swift-3.0+-orange.svg)](https://swift.org)
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)][mitLink]
-[![CocoaPods Version Status](https://img.shields.io/cocoapods/v/SwiftVideoBackground.svg)][podLink]
-[![Carthage compatible](https://img.shields.io/badge/Carthage-Compatible-brightgreen.svg?style=flat)](https://github.com/Carthage/Carthage)
-
-<p align="center">
-  <img src="https://github.com/dingwilson/SwiftVideoBackground/raw/master/Assets/Spotify.gif" width="369" title="Screenshot">
+  <img src="https://github.com/peterleng150/SwiftVideoBackground/raw/master/Assets/Spotify.gif" width="369" title="Screenshot">
 </p>
 
 SwiftVideoBackground is an easy to use Swift framework that provides the ability to play a video on any UIView. This provides a beautiful UI for login screens, or splash pages, as implemented by Spotify and many others.
