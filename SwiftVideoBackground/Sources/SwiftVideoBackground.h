@@ -1,10 +1,4 @@
-//
-//  SwiftVideoBackground.h
-//  SwiftVideoBackground
-//
-//  Created by Wilson Ding on 9/26/16.
-//  Copyright © 2016 Wilson Ding. All rights reserved.
-//
+
 
 #import <UIKit/UIKit.h>
 
