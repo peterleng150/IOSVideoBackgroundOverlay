@@ -1,10 +1,4 @@
-//
-//  VideoBackground.swift
-//  SwiftVideoBackground
-//
-//  Created by Wilson Ding on 9/20/16.
-//  Copyright © 2016 Wilson Ding. All rights reserved.
-//
+
 
 import AVFoundation
 import UIKit
